@@ -1,0 +1,17 @@
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/AppBootstrap.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/AppDelegate.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/MenuBar/MenuBarContentBuilder.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/MenuBar/MenuBarController.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Models/AppSettings.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Models/ClipboardItem.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/RainPasteApp.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/AutoPasteService.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/ClipboardHistoryStore.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/ClipboardMonitoring.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/GlobalHotKeyService.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/HistoryPersistence.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/SystemPasteboard.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/ViewModels/AppViewModel.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Views/ClipboardRowView.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Views/MainWindowView.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Windowing/MainWindowCoordinator.swift

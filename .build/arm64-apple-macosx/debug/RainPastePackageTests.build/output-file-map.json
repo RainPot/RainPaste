@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.build/master.swiftdeps"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.build/runner.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPastePackageTests.build/runner.dia"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/master.swiftdeps"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/AppBootstrap.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppBootstrap.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppBootstrap.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppBootstrap~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppBootstrap.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppBootstrap.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/AppDelegate.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppDelegate.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppDelegate.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/MenuBar/MenuBarContentBuilder.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarContentBuilder.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarContentBuilder.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarContentBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarContentBuilder.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarContentBuilder.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/MenuBar/MenuBarController.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarController.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarController.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarController~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarController.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MenuBarController.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Models/AppSettings.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppSettings.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppSettings.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppSettings.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppSettings.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Models/ClipboardItem.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardItem.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardItem.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardItem.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardItem.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/RainPasteApp.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/RainPasteApp.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/RainPasteApp.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/RainPasteApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/RainPasteApp.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/RainPasteApp.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/AutoPasteService.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AutoPasteService.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AutoPasteService.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AutoPasteService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AutoPasteService.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AutoPasteService.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/ClipboardHistoryStore.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardHistoryStore.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardHistoryStore.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardHistoryStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardHistoryStore.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardHistoryStore.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/ClipboardMonitoring.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardMonitoring.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardMonitoring.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardMonitoring~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardMonitoring.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardMonitoring.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/GlobalHotKeyService.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/GlobalHotKeyService.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/GlobalHotKeyService.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/GlobalHotKeyService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/GlobalHotKeyService.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/GlobalHotKeyService.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/HistoryPersistence.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/HistoryPersistence.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/HistoryPersistence.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/HistoryPersistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/HistoryPersistence.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/HistoryPersistence.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Services/SystemPasteboard.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/SystemPasteboard.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/SystemPasteboard.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/SystemPasteboard~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/SystemPasteboard.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/SystemPasteboard.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/ViewModels/AppViewModel.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppViewModel.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppViewModel.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppViewModel.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/AppViewModel.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Views/ClipboardRowView.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardRowView.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardRowView.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardRowView.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/ClipboardRowView.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Views/MainWindowView.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowView.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowView.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowView.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowView.dia"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Sources/RainPasteApp/Windowing/MainWindowCoordinator.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowCoordinator.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowCoordinator.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowCoordinator.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteApp.build/MainWindowCoordinator.dia"
+  }
+}

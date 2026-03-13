@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/RainPastePackageTests.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/RainPastePackageTests.o",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/master.swiftdeps"
+  },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.derived/runner.swift": {
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/release/RainPastePackageTests.build/runner.dia"
+  }
+}

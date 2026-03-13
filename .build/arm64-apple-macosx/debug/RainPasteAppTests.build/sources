@@ -1,0 +1,9 @@
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/AppSettingsTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/ClipboardItemTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/AutoPasteServiceTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/ClipboardHistoryStoreTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/ClipboardMonitoringTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/GlobalHotKeyServiceTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/HistoryPersistenceTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/ViewModels/AppViewModelTests.swift
+/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Windowing/MainWindowCoordinatorTests.swift
