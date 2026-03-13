@@ -13,22 +13,23 @@ final class MenuBarController: NSObject {
     private let statusItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.variableLength)
     private var actions: MenuBarActions?
 
+    static func makeStatusItemImage() -> NSImage? {
+        let image = NSImage(
+            systemSymbolName: "menubar.dock.rectangle",
+            accessibilityDescription: "RainPaste"
+        )
+        image?.isTemplate = true
+        return image
+    }
+
     func configure(actions: MenuBarActions) {
         self.actions = actions
         guard let button = statusItem.button else {
             return
         }
 
-        button.image = NSImage(
-            systemSymbolName: "menubar.dock.rectangle",
-            accessibilityDescription: "RainPaste"
-        )
-        button.contentTintColor = NSColor(
-            calibratedRed: 0.68,
-            green: 1.0,
-            blue: 0.86,
-            alpha: 1
-        )
+        button.image = Self.makeStatusItemImage()
+        button.contentTintColor = nil
         button.appearsDisabled = false
     }
 

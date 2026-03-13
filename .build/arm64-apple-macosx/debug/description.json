@@ -285,6 +285,10 @@
       "inputs" : [
         {
           "kind" : "file",
+          "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/MenuBar/MenuBarControllerTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/AppSettingsTests.swift"
         },
         {
@@ -336,6 +340,7 @@
       "moduleName" : "RainPasteAppTests",
       "moduleOutputPath" : "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/Modules/RainPasteAppTests.swiftmodule",
       "objects" : [
+        "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.swift.o",
         "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/AppSettingsTests.swift.o",
         "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/ClipboardItemTests.swift.o",
         "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/AutoPasteServiceTests.swift.o",
@@ -404,6 +409,10 @@
       "outputs" : [
         {
           "kind" : "file",
+          "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/AppSettingsTests.swift.o"
         },
         {
@@ -445,6 +454,7 @@
       ],
       "prepareForIndexing" : false,
       "sources" : [
+        "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/MenuBar/MenuBarControllerTests.swift",
         "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/AppSettingsTests.swift",
         "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/ClipboardItemTests.swift",
         "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/AutoPasteServiceTests.swift",
@@ -653,6 +663,7 @@
       "-package-name",
       "rain_paste",
       "-c",
+      "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/MenuBar/MenuBarControllerTests.swift",
       "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/AppSettingsTests.swift",
       "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/ClipboardItemTests.swift",
       "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Services/AutoPasteServiceTests.swift",
@@ -999,6 +1010,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/MenuBar/MenuBarControllerTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/AppSettingsTests.swift"
         },
         {
@@ -1160,6 +1175,10 @@
         {
           "kind" : "file",
           "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MainWindowCoordinatorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.swift.o"
         },
         {
           "kind" : "file",

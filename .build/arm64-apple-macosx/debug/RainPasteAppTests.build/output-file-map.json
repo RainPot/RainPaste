@@ -2,6 +2,13 @@
   "": {
     "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/master.swiftdeps"
   },
+  "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/MenuBar/MenuBarControllerTests.swift": {
+    "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.d",
+    "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.swift.o",
+    "swiftmodule": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.swiftdeps",
+    "diagnostics": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/MenuBarControllerTests.dia"
+  },
   "/Users/zhangyu421/Documents/project/learning/rain_paste/Tests/RainPasteAppTests/Models/AppSettingsTests.swift": {
     "dependencies": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/AppSettingsTests.d",
     "object": "/Users/zhangyu421/Documents/project/learning/rain_paste/.build/arm64-apple-macosx/debug/RainPasteAppTests.build/AppSettingsTests.swift.o",

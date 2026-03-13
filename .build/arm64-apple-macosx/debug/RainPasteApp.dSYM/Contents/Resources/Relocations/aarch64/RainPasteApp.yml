@@ -139,7 +139,7 @@ relocations:
   - { offset: 0x134D89, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8DelegateCACycfcTo', symObjAddr: 0x80C, symBinAddr: 0x1000076B0, symSize: 0x20 }
   - { offset: 0x134D9D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8DelegateCfD', symObjAddr: 0x82C, symBinAddr: 0x1000076D0, symSize: 0x48 }
   - { offset: 0x134E8A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8SettingsV15maxHistoryCountSivg', symObjAddr: 0x0, symBinAddr: 0x10000776C, symSize: 0x18 }
-  - { offset: 0x134EAE, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8SettingsV12defaultValueACvpZ', symObjAddr: 0x6880, symBinAddr: 0x1000648B8, symSize: 0x0 }
+  - { offset: 0x134EAE, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8SettingsV12defaultValueACvpZ', symObjAddr: 0x6880, symBinAddr: 0x1000648A8, symSize: 0x0 }
   - { offset: 0x13521E, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8SettingsV12defaultValue_WZ', symObjAddr: 0xA4, symBinAddr: 0x100007810, symSize: 0x5C }
   - { offset: 0x135238, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8SettingsV12defaultValueACvau', symObjAddr: 0x120, symBinAddr: 0x10000788C, symSize: 0x50 }
   - { offset: 0x135256, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp0C8SettingsV10CodingKeys33_115FD41101B9D51B1C582700ACFCA5C8LLOAFSHAAWl', symObjAddr: 0x5DC, symBinAddr: 0x100007D48, symSize: 0x68 }
@@ -611,7 +611,7 @@ relocations:
   - { offset: 0x13A778, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp19ClipboardMonitoringCfd', symObjAddr: 0x1488, symBinAddr: 0x100018588, symSize: 0x44 }
   - { offset: 0x13A79C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp19ClipboardMonitoringCfD', symObjAddr: 0x14FC, symBinAddr: 0x1000185FC, symSize: 0x3C }
   - { offset: 0x13A8AC, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp16ClipboardRowViewV4itemAA0D4ItemVvg', symObjAddr: 0x0, symBinAddr: 0x100018AD4, symSize: 0x1C }
-  - { offset: 0x13A8D0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp16ClipboardRowViewV13dateFormatter33_E76869437E58A409CA0548AF49A96462LLSo06NSDateH0CvpZ', symObjAddr: 0x1E8A8, symBinAddr: 0x100063918, symSize: 0x0 }
+  - { offset: 0x13A8D0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp16ClipboardRowViewV13dateFormatter33_E76869437E58A409CA0548AF49A96462LLSo06NSDateH0CvpZ', symObjAddr: 0x1E8A8, symBinAddr: 0x100063908, symSize: 0x0 }
   - { offset: 0x13A9ED, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp16ClipboardRowViewVMa', symObjAddr: 0x13C, symBinAddr: 0x100018B18, symSize: 0x60 }
   - { offset: 0x13AA01, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp16ClipboardRowViewV4bodyQrvg7SwiftUI6HStackVyAE05TupleF0VyAE6VStackVyAIyAGyAIyAE0F0PAEE15foregroundStyleyQrqd__AE05ShapeN0Rd__lFQOyAmEE10background_9alignmentQrqd___AE9AlignmentVtAeLRd__lFQOyAmEE7paddingyQrAE4EdgeO3SetV_12CoreGraphics7CGFloatVSgtFQOyAmEEATyQrAX_A0_tFQOyAE4TextV_Qo__Qo__AE01_oF0VyAE7CapsuleVAE5ColorVGQo__A10_Qo_Sg_A2_tGG_AmEE13textSelectionyQrqd__AE0Y13SelectabilityRd__lFQOyAmEE9lineLimityQrSiSgFQOyA2__Qo__AE07EnabledY13SelectabilityVQo_tGG_AE6SpacerVAGyAIyAC10iconButton33_E76869437E58A409CA0548AF49A96462LL11systemImage4tint6actionQrSS_A10_yyctFQOy_Qo__A34_A34_tGGtGGyXEfU_TA', symObjAddr: 0x11B4, symBinAddr: 0x100019B28, symSize: 0x8 }
   - { offset: 0x13AA15, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6HStackVyAA9TupleViewVyAA6VStackVyAEyACyAEyAA15ModifiedContentVyAIyAIyAIyAA4TextVAA14_PaddingLayoutVGAMGAA19_BackgroundModifierVyAA06_ShapeE0VyAA7CapsuleVAA5ColorVGGGAA016_ForegroundStyleM0VyAWGGSg_AKtGG_AA0E0PAAE13textSelectionyQrqd__AA0I13SelectabilityRd__lFQOyAIyAkA022_EnvironmentKeyWritingM0VySiSgGG_AA07EnablediU0VQo_tGG_AA6SpacerVACyAEyAIyAIyAIyA7_AAE06buttonR0yQrqd__AA015PrimitiveButtonR0Rd__lFQOyAA6ButtonVyAIyAIyAA5ImageVA11_yAA4FontVSgGGAA06_FrameK0VGG_AA011PlainButtonR0VQo_AQyASyAA16RoundedRectangleVAWGGGAA08_OverlayM0VyAA06StrokenE0VyA41_AwA05EmptyE0VGGGA1_G_A54_A54_tGGtGGACyxGAAA6_AAWl', symObjAddr: 0x11BC, symBinAddr: 0x100019B30, symSize: 0x74 }
@@ -747,7 +747,7 @@ relocations:
   - { offset: 0x13BC33, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp16ClipboardRowViewV7SwiftUI0F0AadEP4body4BodyQzvgTW', symObjAddr: 0x7940, symBinAddr: 0x100020170, symSize: 0x14 }
   - { offset: 0x13BC47, size: 0x8, addend: 0x0, symName: '_$sSo15NSDateFormatterCABycfcTO', symObjAddr: 0x87CC, symBinAddr: 0x100020FFC, symSize: 0x20 }
   - { offset: 0x13BD89, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14GlobalShortcutV7keyCodes6UInt32Vvg', symObjAddr: 0x0, symBinAddr: 0x100025AA0, symSize: 0x4 }
-  - { offset: 0x13BDAD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14GlobalShortcutV12defaultValueACvpZ', symObjAddr: 0x9BE0, symBinAddr: 0x1000648D0, symSize: 0x0 }
+  - { offset: 0x13BDAD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14GlobalShortcutV12defaultValueACvpZ', symObjAddr: 0x9BE0, symBinAddr: 0x1000648C0, symSize: 0x0 }
   - { offset: 0x13BEAB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14GlobalShortcutV12defaultValue_WZ', symObjAddr: 0xC, symBinAddr: 0x100025AAC, symSize: 0x94 }
   - { offset: 0x13BEC5, size: 0x8, addend: 0x0, symName: '_$sSo20NSEventModifierFlagsVMa', symObjAddr: 0xA0, symBinAddr: 0x100025B40, symSize: 0x94 }
   - { offset: 0x13BED9, size: 0x8, addend: 0x0, symName: '_$sSo20NSEventModifierFlagsVABs10SetAlgebraSCWl', symObjAddr: 0x174, symBinAddr: 0x100025BD4, symSize: 0x6C }
@@ -1035,7 +1035,7 @@ relocations:
   - { offset: 0x13ED89, size: 0x8, addend: 0x0, symName: '_$sSo26NSWindowCollectionBehaviorVSYSCSY8rawValuexSg03RawE0Qz_tcfCTW', symObjAddr: 0x2724, symBinAddr: 0x10002DB00, symSize: 0x3C }
   - { offset: 0x13ED9D, size: 0x8, addend: 0x0, symName: '_$sSo26NSWindowCollectionBehaviorVSYSCSY8rawValue03RawE0QzvgTW', symObjAddr: 0x2760, symBinAddr: 0x10002DB3C, symSize: 0x2C }
   - { offset: 0x13EDB1, size: 0x8, addend: 0x0, symName: '_$sSo26NSWindowCollectionBehaviorV8rawValueSuvg', symObjAddr: 0x2BAC, symBinAddr: 0x10002DED4, symSize: 0x4 }
-  - { offset: 0x13EF29, size: 0x8, addend: 0x0, symName: _NSFloatingWindowLevel, symObjAddr: 0x3D90, symBinAddr: 0x100055B50, symSize: 0x0 }
+  - { offset: 0x13EF29, size: 0x8, addend: 0x0, symName: _NSFloatingWindowLevel, symObjAddr: 0x3D90, symBinAddr: 0x100055B00, symSize: 0x0 }
   - { offset: 0x13EF73, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MainWindowViewV9viewModelAA0cfH0CvpfP', symObjAddr: 0x0, symBinAddr: 0x10002F038, symSize: 0x40 }
   - { offset: 0x13EF8B, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MainWindowViewV9viewModelAA0cfH0CvpfP', symObjAddr: 0x0, symBinAddr: 0x10002F038, symSize: 0x40 }
   - { offset: 0x13F1BB, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI14ObservedObjectVy12RainPasteApp0G9ViewModelCGWOc', symObjAddr: 0x108, symBinAddr: 0x10002F0D4, symSize: 0x3C }
@@ -1327,105 +1327,104 @@ relocations:
   - { offset: 0x1418EE, size: 0x8, addend: 0x0, symName: '_$sSy10FoundationE20replacingOccurrences2of4with7options5rangeSSqd___qd_0_So22NSStringCompareOptionsVSnySS5IndexVGSgtSyRd__SyRd_0_r0_lFfA1_', symObjAddr: 0x18EC, symBinAddr: 0x100048EEC, symSize: 0x38 }
   - { offset: 0x141A74, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV16onOpenMainWindowyycvg', symObjAddr: 0x0, symBinAddr: 0x10004A3C8, symSize: 0x34 }
   - { offset: 0x141B2C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC10statusItem33_4D1E29555CABB4E4370E4666C00C76B0LLSo08NSStatusH0Cvpfi', symObjAddr: 0x16C, symBinAddr: 0x10004A534, symSize: 0x74 }
-  - { offset: 0x141D20, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7actions33_4D1E29555CABB4E4370E4666C00C76B0LLAA0dE7ActionsVSgvpfi', symObjAddr: 0x224, symBinAddr: 0x10004A5EC, symSize: 0x54 }
-  - { offset: 0x141D38, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVSgWOc', symObjAddr: 0x30C, symBinAddr: 0x10004A6D4, symSize: 0x128 }
-  - { offset: 0x141D4C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVSgWOd', symObjAddr: 0x4B0, symBinAddr: 0x10004A878, symSize: 0x144 }
-  - { offset: 0x141D60, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVSgWOh', symObjAddr: 0x64C, symBinAddr: 0x10004A9BC, symSize: 0x6C }
-  - { offset: 0x141D74, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVWOc', symObjAddr: 0x964, symBinAddr: 0x10004ACD4, symSize: 0xF8 }
-  - { offset: 0x141D88, size: 0x8, addend: 0x0, symName: '_$sSo7NSImageCMa', symObjAddr: 0xA5C, symBinAddr: 0x10004ADCC, symSize: 0x60 }
-  - { offset: 0x141D9C, size: 0x8, addend: 0x0, symName: '_$sSo7NSColorCMa', symObjAddr: 0xBA4, symBinAddr: 0x10004AF14, symSize: 0x60 }
-  - { offset: 0x141DB0, size: 0x8, addend: 0x0, symName: '_$sSo6NSMenuCMa', symObjAddr: 0x1718, symBinAddr: 0x10004BA20, symSize: 0x60 }
-  - { offset: 0x141DC4, size: 0x8, addend: 0x0, symName: '_$sSay12RainPasteApp12MenuBarEntryOGSayxGSlsWl', symObjAddr: 0x17A4, symBinAddr: 0x10004BAAC, symSize: 0x74 }
-  - { offset: 0x141DD8, size: 0x8, addend: 0x0, symName: '_$ss16IndexingIteratorVySay12RainPasteApp12MenuBarEntryOGGWOh', symObjAddr: 0x1888, symBinAddr: 0x10004BB20, symSize: 0x28 }
-  - { offset: 0x141DEC, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp12MenuBarEntryOWOb', symObjAddr: 0x18B0, symBinAddr: 0x10004BB48, symSize: 0xC4 }
-  - { offset: 0x141E00, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp12MenuBarEntryOWOc', symObjAddr: 0x1974, symBinAddr: 0x10004BC0C, symSize: 0x1C8 }
-  - { offset: 0x141E14, size: 0x8, addend: 0x0, symName: '_$sSo10NSMenuItemCMa', symObjAddr: 0x1B3C, symBinAddr: 0x10004BDD4, symSize: 0x60 }
-  - { offset: 0x141E28, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x2248, symBinAddr: 0x10004C38C, symSize: 0x38 }
-  - { offset: 0x141E3C, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x2348, symBinAddr: 0x10004C3C4, symSize: 0x1C }
-  - { offset: 0x141E50, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCfETo', symObjAddr: 0x2A8C, symBinAddr: 0x10004CB08, symSize: 0x54 }
-  - { offset: 0x141E7E, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwCP', symObjAddr: 0x2AE0, symBinAddr: 0x10004CB5C, symSize: 0x3C }
-  - { offset: 0x141E92, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwxx', symObjAddr: 0x2B1C, symBinAddr: 0x10004CB98, symSize: 0x54 }
-  - { offset: 0x141EA6, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwcp', symObjAddr: 0x2B70, symBinAddr: 0x10004CBEC, symSize: 0xF8 }
-  - { offset: 0x141EBA, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwca', symObjAddr: 0x2C68, symBinAddr: 0x10004CCE4, symSize: 0x124 }
-  - { offset: 0x141ECE, size: 0x8, addend: 0x0, symName: ___swift_memcpy80_8, symObjAddr: 0x2D8C, symBinAddr: 0x10004CE08, symSize: 0x2C }
-  - { offset: 0x141EE2, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwta', symObjAddr: 0x2DB8, symBinAddr: 0x10004CE34, symSize: 0xC0 }
-  - { offset: 0x141EF6, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwet', symObjAddr: 0x2E78, symBinAddr: 0x10004CEF4, symSize: 0x118 }
-  - { offset: 0x141F0A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwst', symObjAddr: 0x2F90, symBinAddr: 0x10004D00C, symSize: 0x1E8 }
-  - { offset: 0x141F1E, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVMa', symObjAddr: 0x3178, symBinAddr: 0x10004D1F4, symSize: 0x14 }
-  - { offset: 0x141F32, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCMa', symObjAddr: 0x318C, symBinAddr: 0x10004D208, symSize: 0x24 }
-  - { offset: 0x141F5A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV16onOpenMainWindowyycvg', symObjAddr: 0x0, symBinAddr: 0x10004A3C8, symSize: 0x34 }
-  - { offset: 0x141F75, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV19onSelectHistoryItemyy10Foundation4UUIDVcvg', symObjAddr: 0x34, symBinAddr: 0x10004A3FC, symSize: 0x34 }
-  - { offset: 0x141F89, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV18onToggleMonitoringyycvg', symObjAddr: 0x68, symBinAddr: 0x10004A430, symSize: 0x34 }
-  - { offset: 0x141F9D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV14onClearHistoryyycvg', symObjAddr: 0x9C, symBinAddr: 0x10004A464, symSize: 0x34 }
-  - { offset: 0x141FB1, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV6onQuityycvg', symObjAddr: 0xD0, symBinAddr: 0x10004A498, symSize: 0x34 }
-  - { offset: 0x141FCC, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV16onOpenMainWindow0G17SelectHistoryItem0G16ToggleMonitoring0g5ClearL00G4QuitACyyc_y10Foundation4UUIDVcyycyycyyctcfC', symObjAddr: 0x104, symBinAddr: 0x10004A4CC, symSize: 0x68 }
-  - { offset: 0x14210A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC10statusItem33_4D1E29555CABB4E4370E4666C00C76B0LLSo08NSStatusH0Cvg', symObjAddr: 0x1E0, symBinAddr: 0x10004A5A8, symSize: 0x44 }
-  - { offset: 0x1421AA, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7actions33_4D1E29555CABB4E4370E4666C00C76B0LLAA0dE7ActionsVSgvg', symObjAddr: 0x278, symBinAddr: 0x10004A640, symSize: 0x94 }
-  - { offset: 0x1421D6, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7actions33_4D1E29555CABB4E4370E4666C00C76B0LLAA0dE7ActionsVSgvs', symObjAddr: 0x434, symBinAddr: 0x10004A7FC, symSize: 0x7C }
-  - { offset: 0x14220A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC9configure7actionsyAA0dE7ActionsV_tF', symObjAddr: 0x6B8, symBinAddr: 0x10004AA28, symSize: 0x2AC }
-  - { offset: 0x14225D, size: 0x8, addend: 0x0, symName: '_$sSo7NSImageC16systemSymbolName24accessibilityDescriptionABSgSS_SSSgtcfCTO', symObjAddr: 0xABC, symBinAddr: 0x10004AE2C, symSize: 0xE8 }
-  - { offset: 0x142286, size: 0x8, addend: 0x0, symName: '_$sSo7NSColorC13calibratedRed5green4blue5alphaAB12CoreGraphics7CGFloatV_A3ItcfCTO', symObjAddr: 0xC04, symBinAddr: 0x10004AF74, symSize: 0x50 }
-  - { offset: 0x14229A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7refresh5items18isMonitoringPausedySayAA13ClipboardItemVG_SbtF', symObjAddr: 0xC54, symBinAddr: 0x10004AFC4, symSize: 0xA5C }
-  - { offset: 0x142447, size: 0x8, addend: 0x0, symName: '_$sSo6NSMenuCABycfC', symObjAddr: 0x1778, symBinAddr: 0x10004BA80, symSize: 0x2C }
-  - { offset: 0x142462, size: 0x8, addend: 0x0, symName: '_$sSo10NSMenuItemC5title6action13keyEquivalentABSS_10ObjectiveC8SelectorVSgSStcfC', symObjAddr: 0x1B9C, symBinAddr: 0x10004BE34, symSize: 0x5C }
-  - { offset: 0x142488, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC8selector33_4D1E29555CABB4E4370E4666C00C76B0LL3for10ObjectiveC8SelectorVAA0dE10ActionTypeO_tF', symObjAddr: 0x1BF8, symBinAddr: 0x10004BE90, symSize: 0x9C }
-  - { offset: 0x1424BB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC14openMainWindow33_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x1D7C, symBinAddr: 0x10004BF2C, symSize: 0xB0 }
-  - { offset: 0x1424DF, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC14openMainWindow33_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x1E2C, symBinAddr: 0x10004BFDC, symSize: 0xAC }
-  - { offset: 0x1424F3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC17selectHistoryItem33_4D1E29555CABB4E4370E4666C00C76B0LLyySo06NSMenuI0CF', symObjAddr: 0x1F44, symBinAddr: 0x10004C088, symSize: 0x304 }
-  - { offset: 0x14253D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC17selectHistoryItem33_4D1E29555CABB4E4370E4666C00C76B0LLyySo06NSMenuI0CFTo', symObjAddr: 0x2364, symBinAddr: 0x10004C3E0, symSize: 0xD4 }
-  - { offset: 0x142551, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC16toggleMonitoring33_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x2438, symBinAddr: 0x10004C4B4, symSize: 0xB0 }
-  - { offset: 0x142575, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC16toggleMonitoring33_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x24E8, symBinAddr: 0x10004C564, symSize: 0xAC }
-  - { offset: 0x142589, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC12clearHistory33_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x2594, symBinAddr: 0x10004C610, symSize: 0xB0 }
-  - { offset: 0x1425AD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC12clearHistory33_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x2644, symBinAddr: 0x10004C6C0, symSize: 0xAC }
-  - { offset: 0x1425C1, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC04quitC033_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x26F0, symBinAddr: 0x10004C76C, symSize: 0xB0 }
-  - { offset: 0x1425E5, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC04quitC033_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x27A0, symBinAddr: 0x10004C81C, symSize: 0xAC }
-  - { offset: 0x142600, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCACycfC', symObjAddr: 0x284C, symBinAddr: 0x10004C8C8, symSize: 0x24 }
-  - { offset: 0x142614, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCACycfc', symObjAddr: 0x2870, symBinAddr: 0x10004C8EC, symSize: 0x13C }
-  - { offset: 0x142639, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCACycfcTo', symObjAddr: 0x29AC, symBinAddr: 0x10004CA28, symSize: 0x98 }
-  - { offset: 0x14264D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCfD', symObjAddr: 0x2A44, symBinAddr: 0x10004CAC0, symSize: 0x48 }
-  - { offset: 0x142671, size: 0x8, addend: 0x0, symName: '_$sSo6NSMenuCABycfcTO', symObjAddr: 0x31B0, symBinAddr: 0x10004D22C, symSize: 0x20 }
-  - { offset: 0x142685, size: 0x8, addend: 0x0, symName: '_$sSo10NSMenuItemC5title6action13keyEquivalentABSS_10ObjectiveC8SelectorVSgSStcfcTO', symObjAddr: 0x31D0, symBinAddr: 0x10004D24C, symSize: 0xA0 }
-  - { offset: 0x1427D9, size: 0x8, addend: 0x0, symName: _NSVariableStatusItemLength, symObjAddr: 0x3280, symBinAddr: 0x100056860, symSize: 0x0 }
-  - { offset: 0x14281C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV11appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LLAA0cE0Cvg', symObjAddr: 0x0, symBinAddr: 0x10004D2EC, symSize: 0xB4 }
-  - { offset: 0x142907, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV12_appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LL7SwiftUI013NSApplicationE7AdaptorVyAA0cE0CGvpfi', symObjAddr: 0x11C, symBinAddr: 0x10004D3A0, symSize: 0x34 }
-  - { offset: 0x14291F, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI8SettingsVyAA9EmptyViewVGACyxGAA5SceneAAWl', symObjAddr: 0x54C, symBinAddr: 0x10004D748, symSize: 0x74 }
-  - { offset: 0x142933, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVMa', symObjAddr: 0x664, symBinAddr: 0x10004D7F0, symSize: 0x60 }
-  - { offset: 0x142947, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVAB7SwiftUI0C0AAWl', symObjAddr: 0x6C4, symBinAddr: 0x10004D850, symSize: 0x6C }
-  - { offset: 0x14295B, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVWOb', symObjAddr: 0x7C0, symBinAddr: 0x10004D94C, symSize: 0x50 }
-  - { offset: 0x14296F, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV7SwiftUI0C0AA4BodyAcDP_AC5ScenePWT', symObjAddr: 0x850, symBinAddr: 0x10004D9DC, symSize: 0x24 }
-  - { offset: 0x142983, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwCP', symObjAddr: 0x874, symBinAddr: 0x10004DA00, symSize: 0x4C }
-  - { offset: 0x142997, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwxx', symObjAddr: 0x8C0, symBinAddr: 0x10004DA4C, symSize: 0x44 }
-  - { offset: 0x1429AB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwcp', symObjAddr: 0x904, symBinAddr: 0x10004DA90, symSize: 0x50 }
-  - { offset: 0x1429BF, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwca', symObjAddr: 0x954, symBinAddr: 0x10004DAE0, symSize: 0x50 }
-  - { offset: 0x1429D3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwtk', symObjAddr: 0x9A4, symBinAddr: 0x10004DB30, symSize: 0x50 }
-  - { offset: 0x1429E7, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwta', symObjAddr: 0x9F4, symBinAddr: 0x10004DB80, symSize: 0x50 }
-  - { offset: 0x1429FB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwet', symObjAddr: 0xA44, symBinAddr: 0x10004DBD0, symSize: 0x1C }
-  - { offset: 0x142A0F, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwst', symObjAddr: 0xAAC, symBinAddr: 0x10004DC38, symSize: 0x1C }
-  - { offset: 0x142A23, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVMr', symObjAddr: 0xB18, symBinAddr: 0x10004DCA4, symSize: 0x94 }
-  - { offset: 0x142A37, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI28NSApplicationDelegateAdaptorVy12RainPasteApp0hD0CGMa', symObjAddr: 0xBAC, symBinAddr: 0x10004DD38, symSize: 0x98 }
-  - { offset: 0x142A4C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV11appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LLAA0cE0Cvg', symObjAddr: 0x0, symBinAddr: 0x10004D2EC, symSize: 0xB4 }
-  - { offset: 0x142A93, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV12_appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LL7SwiftUI013NSApplicationE7AdaptorVyAA0cE0CGvg', symObjAddr: 0x150, symBinAddr: 0x10004D3D4, symSize: 0x4C }
-  - { offset: 0x142AAE, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV12_appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LL7SwiftUI013NSApplicationE7AdaptorVyAA0cE0CGvs', symObjAddr: 0x19C, symBinAddr: 0x10004D420, symSize: 0xB0 }
-  - { offset: 0x142AC9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV4bodyQrvg', symObjAddr: 0x24C, symBinAddr: 0x10004D4D0, symSize: 0x158 }
-  - { offset: 0x142AED, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV4bodyQrvg7SwiftUI9EmptyViewVyXEfU_', symObjAddr: 0x3A4, symBinAddr: 0x10004D628, symSize: 0xDC }
-  - { offset: 0x142B65, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI12SceneBuilderV15buildExpressionyxxAA0C0RzlFZ', symObjAddr: 0x508, symBinAddr: 0x10004D704, symSize: 0x44 }
-  - { offset: 0x142B93, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV5$mainyyFZ', symObjAddr: 0x630, symBinAddr: 0x10004D7BC, symSize: 0x34 }
-  - { offset: 0x142BB3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVABycfC', symObjAddr: 0x730, symBinAddr: 0x10004D8BC, symSize: 0x90 }
-  - { offset: 0x142BD8, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV7SwiftUI0C0AacDP4body4BodyQzvgTW', symObjAddr: 0x810, symBinAddr: 0x10004D99C, symSize: 0x14 }
-  - { offset: 0x142BF3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV7SwiftUI0C0AacDPxycfCTW', symObjAddr: 0x824, symBinAddr: 0x10004D9B0, symSize: 0x14 }
-  - { offset: 0x142C19, size: 0x8, addend: 0x0, symName: _RainPasteApp_main, symObjAddr: 0x838, symBinAddr: 0x10004D9C4, symSize: 0x18 }
-  - { offset: 0x142D15, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboard33_1A787525D3F6B58F785AEA537A9AD6B3LLSo12NSPasteboardCvg', symObjAddr: 0x0, symBinAddr: 0x10004DDE4, symSize: 0x30 }
-  - { offset: 0x142E38, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboardACSo12NSPasteboardC_tcfcfA_', symObjAddr: 0x30, symBinAddr: 0x10004DE14, symSize: 0x2C }
-  - { offset: 0x142E52, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCMa', symObjAddr: 0x430, symBinAddr: 0x10004E214, symSize: 0x24 }
-  - { offset: 0x142E85, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboard33_1A787525D3F6B58F785AEA537A9AD6B3LLSo12NSPasteboardCvg', symObjAddr: 0x0, symBinAddr: 0x10004DDE4, symSize: 0x30 }
-  - { offset: 0x142EA0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboardACSo12NSPasteboardC_tcfC', symObjAddr: 0x5C, symBinAddr: 0x10004DE40, symSize: 0x48 }
-  - { offset: 0x142EB4, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboardACSo12NSPasteboardC_tcfc', symObjAddr: 0xA4, symBinAddr: 0x10004DE88, symSize: 0x60 }
-  - { offset: 0x142EF9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC11changeCountSivg', symObjAddr: 0x104, symBinAddr: 0x10004DEE8, symSize: 0x64 }
-  - { offset: 0x142F1D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC11currentTextSSSgyF', symObjAddr: 0x168, symBinAddr: 0x10004DF4C, symSize: 0x108 }
-  - { offset: 0x142F48, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC5write4textySS_tF', symObjAddr: 0x270, symBinAddr: 0x10004E054, symSize: 0x10C }
-  - { offset: 0x142F89, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCfd', symObjAddr: 0x37C, symBinAddr: 0x10004E160, symSize: 0x3C }
-  - { offset: 0x142FAD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCfD', symObjAddr: 0x3B8, symBinAddr: 0x10004E19C, symSize: 0x3C }
-  - { offset: 0x142FD1, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCAA06SystemE0A2aDP11changeCountSivgTW', symObjAddr: 0x3F4, symBinAddr: 0x10004E1D8, symSize: 0x14 }
-  - { offset: 0x142FE5, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCAA06SystemE0A2aDP11currentTextSSSgyFTW', symObjAddr: 0x408, symBinAddr: 0x10004E1EC, symSize: 0x14 }
-  - { offset: 0x142FF9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCAA06SystemE0A2aDP5write4textySS_tFTW', symObjAddr: 0x41C, symBinAddr: 0x10004E200, symSize: 0x14 }
+  - { offset: 0x141D38, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7actions33_4D1E29555CABB4E4370E4666C00C76B0LLAA0dE7ActionsVSgvpfi', symObjAddr: 0x224, symBinAddr: 0x10004A5EC, symSize: 0x54 }
+  - { offset: 0x141D50, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVSgWOc', symObjAddr: 0x30C, symBinAddr: 0x10004A6D4, symSize: 0x128 }
+  - { offset: 0x141D64, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVSgWOd', symObjAddr: 0x4B0, symBinAddr: 0x10004A878, symSize: 0x144 }
+  - { offset: 0x141D78, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVSgWOh', symObjAddr: 0x64C, symBinAddr: 0x10004A9BC, symSize: 0x6C }
+  - { offset: 0x141D8C, size: 0x8, addend: 0x0, symName: '_$sSo7NSImageCMa', symObjAddr: 0x7AC, symBinAddr: 0x10004AB1C, symSize: 0x60 }
+  - { offset: 0x141DA0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVWOc', symObjAddr: 0xB10, symBinAddr: 0x10004AE80, symSize: 0xF8 }
+  - { offset: 0x141DB4, size: 0x8, addend: 0x0, symName: '_$sSo6NSMenuCMa', symObjAddr: 0x16CC, symBinAddr: 0x10004B9D4, symSize: 0x60 }
+  - { offset: 0x141DC8, size: 0x8, addend: 0x0, symName: '_$sSay12RainPasteApp12MenuBarEntryOGSayxGSlsWl', symObjAddr: 0x1758, symBinAddr: 0x10004BA60, symSize: 0x74 }
+  - { offset: 0x141DDC, size: 0x8, addend: 0x0, symName: '_$ss16IndexingIteratorVySay12RainPasteApp12MenuBarEntryOGGWOh', symObjAddr: 0x183C, symBinAddr: 0x10004BAD4, symSize: 0x28 }
+  - { offset: 0x141DF0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp12MenuBarEntryOWOb', symObjAddr: 0x1864, symBinAddr: 0x10004BAFC, symSize: 0xC4 }
+  - { offset: 0x141E04, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp12MenuBarEntryOWOc', symObjAddr: 0x1928, symBinAddr: 0x10004BBC0, symSize: 0x1C8 }
+  - { offset: 0x141E18, size: 0x8, addend: 0x0, symName: '_$sSo10NSMenuItemCMa', symObjAddr: 0x1AF0, symBinAddr: 0x10004BD88, symSize: 0x60 }
+  - { offset: 0x141E2C, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x21FC, symBinAddr: 0x10004C340, symSize: 0x38 }
+  - { offset: 0x141E40, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x22FC, symBinAddr: 0x10004C378, symSize: 0x1C }
+  - { offset: 0x141E54, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCfETo', symObjAddr: 0x2A40, symBinAddr: 0x10004CABC, symSize: 0x54 }
+  - { offset: 0x141E82, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwCP', symObjAddr: 0x2A94, symBinAddr: 0x10004CB10, symSize: 0x3C }
+  - { offset: 0x141E96, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwxx', symObjAddr: 0x2AD0, symBinAddr: 0x10004CB4C, symSize: 0x54 }
+  - { offset: 0x141EAA, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwcp', symObjAddr: 0x2B24, symBinAddr: 0x10004CBA0, symSize: 0xF8 }
+  - { offset: 0x141EBE, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwca', symObjAddr: 0x2C1C, symBinAddr: 0x10004CC98, symSize: 0x124 }
+  - { offset: 0x141ED2, size: 0x8, addend: 0x0, symName: ___swift_memcpy80_8, symObjAddr: 0x2D40, symBinAddr: 0x10004CDBC, symSize: 0x2C }
+  - { offset: 0x141EE6, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwta', symObjAddr: 0x2D6C, symBinAddr: 0x10004CDE8, symSize: 0xC0 }
+  - { offset: 0x141EFA, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwet', symObjAddr: 0x2E2C, symBinAddr: 0x10004CEA8, symSize: 0x118 }
+  - { offset: 0x141F0E, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVwst', symObjAddr: 0x2F44, symBinAddr: 0x10004CFC0, symSize: 0x1E8 }
+  - { offset: 0x141F22, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsVMa', symObjAddr: 0x312C, symBinAddr: 0x10004D1A8, symSize: 0x14 }
+  - { offset: 0x141F36, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCMa', symObjAddr: 0x3140, symBinAddr: 0x10004D1BC, symSize: 0x24 }
+  - { offset: 0x141F5E, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV16onOpenMainWindowyycvg', symObjAddr: 0x0, symBinAddr: 0x10004A3C8, symSize: 0x34 }
+  - { offset: 0x141F79, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV19onSelectHistoryItemyy10Foundation4UUIDVcvg', symObjAddr: 0x34, symBinAddr: 0x10004A3FC, symSize: 0x34 }
+  - { offset: 0x141F8D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV18onToggleMonitoringyycvg', symObjAddr: 0x68, symBinAddr: 0x10004A430, symSize: 0x34 }
+  - { offset: 0x141FA1, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV14onClearHistoryyycvg', symObjAddr: 0x9C, symBinAddr: 0x10004A464, symSize: 0x34 }
+  - { offset: 0x141FB5, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV6onQuityycvg', symObjAddr: 0xD0, symBinAddr: 0x10004A498, symSize: 0x34 }
+  - { offset: 0x141FD0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp14MenuBarActionsV16onOpenMainWindow0G17SelectHistoryItem0G16ToggleMonitoring0g5ClearL00G4QuitACyyc_y10Foundation4UUIDVcyycyycyyctcfC', symObjAddr: 0x104, symBinAddr: 0x10004A4CC, symSize: 0x68 }
+  - { offset: 0x1420D7, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC10statusItem33_4D1E29555CABB4E4370E4666C00C76B0LLSo08NSStatusH0Cvg', symObjAddr: 0x1E0, symBinAddr: 0x10004A5A8, symSize: 0x44 }
+  - { offset: 0x142191, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7actions33_4D1E29555CABB4E4370E4666C00C76B0LLAA0dE7ActionsVSgvg', symObjAddr: 0x278, symBinAddr: 0x10004A640, symSize: 0x94 }
+  - { offset: 0x1421BD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7actions33_4D1E29555CABB4E4370E4666C00C76B0LLAA0dE7ActionsVSgvs', symObjAddr: 0x434, symBinAddr: 0x10004A7FC, symSize: 0x7C }
+  - { offset: 0x1421FD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC19makeStatusItemImageSo7NSImageCSgyFZ', symObjAddr: 0x6B8, symBinAddr: 0x10004AA28, symSize: 0xF4 }
+  - { offset: 0x142246, size: 0x8, addend: 0x0, symName: '_$sSo7NSImageC16systemSymbolName24accessibilityDescriptionABSgSS_SSSgtcfCTO', symObjAddr: 0x80C, symBinAddr: 0x10004AB7C, symSize: 0xE8 }
+  - { offset: 0x14225A, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC9configure7actionsyAA0dE7ActionsV_tF', symObjAddr: 0x8F4, symBinAddr: 0x10004AC64, symSize: 0x21C }
+  - { offset: 0x1422A6, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC7refresh5items18isMonitoringPausedySayAA13ClipboardItemVG_SbtF', symObjAddr: 0xC08, symBinAddr: 0x10004AF78, symSize: 0xA5C }
+  - { offset: 0x142453, size: 0x8, addend: 0x0, symName: '_$sSo6NSMenuCABycfC', symObjAddr: 0x172C, symBinAddr: 0x10004BA34, symSize: 0x2C }
+  - { offset: 0x14246E, size: 0x8, addend: 0x0, symName: '_$sSo10NSMenuItemC5title6action13keyEquivalentABSS_10ObjectiveC8SelectorVSgSStcfC', symObjAddr: 0x1B50, symBinAddr: 0x10004BDE8, symSize: 0x5C }
+  - { offset: 0x142494, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC8selector33_4D1E29555CABB4E4370E4666C00C76B0LL3for10ObjectiveC8SelectorVAA0dE10ActionTypeO_tF', symObjAddr: 0x1BAC, symBinAddr: 0x10004BE44, symSize: 0x9C }
+  - { offset: 0x1424C7, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC14openMainWindow33_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x1D30, symBinAddr: 0x10004BEE0, symSize: 0xB0 }
+  - { offset: 0x1424EB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC14openMainWindow33_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x1DE0, symBinAddr: 0x10004BF90, symSize: 0xAC }
+  - { offset: 0x1424FF, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC17selectHistoryItem33_4D1E29555CABB4E4370E4666C00C76B0LLyySo06NSMenuI0CF', symObjAddr: 0x1EF8, symBinAddr: 0x10004C03C, symSize: 0x304 }
+  - { offset: 0x142549, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC17selectHistoryItem33_4D1E29555CABB4E4370E4666C00C76B0LLyySo06NSMenuI0CFTo', symObjAddr: 0x2318, symBinAddr: 0x10004C394, symSize: 0xD4 }
+  - { offset: 0x14255D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC16toggleMonitoring33_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x23EC, symBinAddr: 0x10004C468, symSize: 0xB0 }
+  - { offset: 0x142581, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC16toggleMonitoring33_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x249C, symBinAddr: 0x10004C518, symSize: 0xAC }
+  - { offset: 0x142595, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC12clearHistory33_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x2548, symBinAddr: 0x10004C5C4, symSize: 0xB0 }
+  - { offset: 0x1425B9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC12clearHistory33_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x25F8, symBinAddr: 0x10004C674, symSize: 0xAC }
+  - { offset: 0x1425CD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC04quitC033_4D1E29555CABB4E4370E4666C00C76B0LLyyF', symObjAddr: 0x26A4, symBinAddr: 0x10004C720, symSize: 0xB0 }
+  - { offset: 0x1425F1, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerC04quitC033_4D1E29555CABB4E4370E4666C00C76B0LLyyFTo', symObjAddr: 0x2754, symBinAddr: 0x10004C7D0, symSize: 0xAC }
+  - { offset: 0x142605, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCACycfC', symObjAddr: 0x2800, symBinAddr: 0x10004C87C, symSize: 0x24 }
+  - { offset: 0x142619, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCACycfc', symObjAddr: 0x2824, symBinAddr: 0x10004C8A0, symSize: 0x13C }
+  - { offset: 0x14263E, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCACycfcTo', symObjAddr: 0x2960, symBinAddr: 0x10004C9DC, symSize: 0x98 }
+  - { offset: 0x142652, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp17MenuBarControllerCfD', symObjAddr: 0x29F8, symBinAddr: 0x10004CA74, symSize: 0x48 }
+  - { offset: 0x142676, size: 0x8, addend: 0x0, symName: '_$sSo6NSMenuCABycfcTO', symObjAddr: 0x3164, symBinAddr: 0x10004D1E0, symSize: 0x20 }
+  - { offset: 0x14268A, size: 0x8, addend: 0x0, symName: '_$sSo10NSMenuItemC5title6action13keyEquivalentABSS_10ObjectiveC8SelectorVSgSStcfcTO', symObjAddr: 0x3184, symBinAddr: 0x10004D200, symSize: 0xA0 }
+  - { offset: 0x1427D9, size: 0x8, addend: 0x0, symName: _NSVariableStatusItemLength, symObjAddr: 0x3230, symBinAddr: 0x100056810, symSize: 0x0 }
+  - { offset: 0x14281C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV11appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LLAA0cE0Cvg', symObjAddr: 0x0, symBinAddr: 0x10004D2A0, symSize: 0xB4 }
+  - { offset: 0x142907, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV12_appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LL7SwiftUI013NSApplicationE7AdaptorVyAA0cE0CGvpfi', symObjAddr: 0x11C, symBinAddr: 0x10004D354, symSize: 0x34 }
+  - { offset: 0x14291F, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI8SettingsVyAA9EmptyViewVGACyxGAA5SceneAAWl', symObjAddr: 0x54C, symBinAddr: 0x10004D6FC, symSize: 0x74 }
+  - { offset: 0x142933, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVMa', symObjAddr: 0x664, symBinAddr: 0x10004D7A4, symSize: 0x60 }
+  - { offset: 0x142947, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVAB7SwiftUI0C0AAWl', symObjAddr: 0x6C4, symBinAddr: 0x10004D804, symSize: 0x6C }
+  - { offset: 0x14295B, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVWOb', symObjAddr: 0x7C0, symBinAddr: 0x10004D900, symSize: 0x50 }
+  - { offset: 0x14296F, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV7SwiftUI0C0AA4BodyAcDP_AC5ScenePWT', symObjAddr: 0x850, symBinAddr: 0x10004D990, symSize: 0x24 }
+  - { offset: 0x142983, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwCP', symObjAddr: 0x874, symBinAddr: 0x10004D9B4, symSize: 0x4C }
+  - { offset: 0x142997, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwxx', symObjAddr: 0x8C0, symBinAddr: 0x10004DA00, symSize: 0x44 }
+  - { offset: 0x1429AB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwcp', symObjAddr: 0x904, symBinAddr: 0x10004DA44, symSize: 0x50 }
+  - { offset: 0x1429BF, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwca', symObjAddr: 0x954, symBinAddr: 0x10004DA94, symSize: 0x50 }
+  - { offset: 0x1429D3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwtk', symObjAddr: 0x9A4, symBinAddr: 0x10004DAE4, symSize: 0x50 }
+  - { offset: 0x1429E7, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwta', symObjAddr: 0x9F4, symBinAddr: 0x10004DB34, symSize: 0x50 }
+  - { offset: 0x1429FB, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwet', symObjAddr: 0xA44, symBinAddr: 0x10004DB84, symSize: 0x1C }
+  - { offset: 0x142A0F, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVwst', symObjAddr: 0xAAC, symBinAddr: 0x10004DBEC, symSize: 0x1C }
+  - { offset: 0x142A23, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVMr', symObjAddr: 0xB18, symBinAddr: 0x10004DC58, symSize: 0x94 }
+  - { offset: 0x142A37, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI28NSApplicationDelegateAdaptorVy12RainPasteApp0hD0CGMa', symObjAddr: 0xBAC, symBinAddr: 0x10004DCEC, symSize: 0x98 }
+  - { offset: 0x142A4C, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV11appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LLAA0cE0Cvg', symObjAddr: 0x0, symBinAddr: 0x10004D2A0, symSize: 0xB4 }
+  - { offset: 0x142A93, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV12_appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LL7SwiftUI013NSApplicationE7AdaptorVyAA0cE0CGvg', symObjAddr: 0x150, symBinAddr: 0x10004D388, symSize: 0x4C }
+  - { offset: 0x142AAE, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV12_appDelegate33_0CA08B7042274AA0EC3C93E9417EB6F4LL7SwiftUI013NSApplicationE7AdaptorVyAA0cE0CGvs', symObjAddr: 0x19C, symBinAddr: 0x10004D3D4, symSize: 0xB0 }
+  - { offset: 0x142AC9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV4bodyQrvg', symObjAddr: 0x24C, symBinAddr: 0x10004D484, symSize: 0x158 }
+  - { offset: 0x142AED, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV4bodyQrvg7SwiftUI9EmptyViewVyXEfU_', symObjAddr: 0x3A4, symBinAddr: 0x10004D5DC, symSize: 0xDC }
+  - { offset: 0x142B65, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI12SceneBuilderV15buildExpressionyxxAA0C0RzlFZ', symObjAddr: 0x508, symBinAddr: 0x10004D6B8, symSize: 0x44 }
+  - { offset: 0x142B93, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV5$mainyyFZ', symObjAddr: 0x630, symBinAddr: 0x10004D770, symSize: 0x34 }
+  - { offset: 0x142BB3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAVABycfC', symObjAddr: 0x730, symBinAddr: 0x10004D870, symSize: 0x90 }
+  - { offset: 0x142BD8, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV7SwiftUI0C0AacDP4body4BodyQzvgTW', symObjAddr: 0x810, symBinAddr: 0x10004D950, symSize: 0x14 }
+  - { offset: 0x142BF3, size: 0x8, addend: 0x0, symName: '_$s12RainPasteAppAAV7SwiftUI0C0AacDPxycfCTW', symObjAddr: 0x824, symBinAddr: 0x10004D964, symSize: 0x14 }
+  - { offset: 0x142C19, size: 0x8, addend: 0x0, symName: _RainPasteApp_main, symObjAddr: 0x838, symBinAddr: 0x10004D978, symSize: 0x18 }
+  - { offset: 0x142D15, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboard33_1A787525D3F6B58F785AEA537A9AD6B3LLSo12NSPasteboardCvg', symObjAddr: 0x0, symBinAddr: 0x10004DD98, symSize: 0x30 }
+  - { offset: 0x142E38, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboardACSo12NSPasteboardC_tcfcfA_', symObjAddr: 0x30, symBinAddr: 0x10004DDC8, symSize: 0x2C }
+  - { offset: 0x142E52, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCMa', symObjAddr: 0x430, symBinAddr: 0x10004E1C8, symSize: 0x24 }
+  - { offset: 0x142E85, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboard33_1A787525D3F6B58F785AEA537A9AD6B3LLSo12NSPasteboardCvg', symObjAddr: 0x0, symBinAddr: 0x10004DD98, symSize: 0x30 }
+  - { offset: 0x142EA0, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboardACSo12NSPasteboardC_tcfC', symObjAddr: 0x5C, symBinAddr: 0x10004DDF4, symSize: 0x48 }
+  - { offset: 0x142EB4, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC10pasteboardACSo12NSPasteboardC_tcfc', symObjAddr: 0xA4, symBinAddr: 0x10004DE3C, symSize: 0x60 }
+  - { offset: 0x142EF9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC11changeCountSivg', symObjAddr: 0x104, symBinAddr: 0x10004DE9C, symSize: 0x64 }
+  - { offset: 0x142F1D, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC11currentTextSSSgyF', symObjAddr: 0x168, symBinAddr: 0x10004DF00, symSize: 0x108 }
+  - { offset: 0x142F48, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientC5write4textySS_tF', symObjAddr: 0x270, symBinAddr: 0x10004E008, symSize: 0x10C }
+  - { offset: 0x142F89, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCfd', symObjAddr: 0x37C, symBinAddr: 0x10004E114, symSize: 0x3C }
+  - { offset: 0x142FAD, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCfD', symObjAddr: 0x3B8, symBinAddr: 0x10004E150, symSize: 0x3C }
+  - { offset: 0x142FD1, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCAA06SystemE0A2aDP11changeCountSivgTW', symObjAddr: 0x3F4, symBinAddr: 0x10004E18C, symSize: 0x14 }
+  - { offset: 0x142FE5, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCAA06SystemE0A2aDP11currentTextSSSgyFTW', symObjAddr: 0x408, symBinAddr: 0x10004E1A0, symSize: 0x14 }
+  - { offset: 0x142FF9, size: 0x8, addend: 0x0, symName: '_$s12RainPasteApp23GeneralPasteboardClientCAA06SystemE0A2aDP5write4textySS_tFTW', symObjAddr: 0x41C, symBinAddr: 0x10004E1B4, symSize: 0x14 }
 ...
