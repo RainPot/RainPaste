@@ -6,7 +6,7 @@ struct AppSettings: Codable, Equatable {
     var closesWindowAfterCopy: Bool
 
     static let defaultValue = AppSettings(
-        maxHistoryCount: 200,
+        maxHistoryCount: 2000,
         ignoresConsecutiveDuplicates: true,
         closesWindowAfterCopy: true
     )
